@@ -5,6 +5,7 @@
     "lerna": "^5.0.0"
   },
   "dependencies": {
-    "student-website": "file:packages/samples/student-website"
+    "student-website": "file:packages/samples/student-website",
+    "another-website": "file:packages/samples/another-website"
   }
 }
